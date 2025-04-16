@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PaintDumpster
-- 👀 I’m interested in Parametric design, robotics and machine learning
-- 🌱 I’m currently learning Artificial intelligence 
+- 👀 I’m interested in machine learning approaches, data mining and data sourcing from natural ecosystems
+- 🌱 I’m currently learning Artificial intelligence & cybernetics
 - 💞️ I’m looking to collaborate on Cyber Botanics
 - 📫 How to reach me salvador.cantuarias@students.iaac.net
 - 😄 Pronouns: she/they
